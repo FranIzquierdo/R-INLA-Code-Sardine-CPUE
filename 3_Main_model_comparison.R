@@ -1,5 +1,6 @@
 rm(list=ls()) # Clean workspace
 library(INLA)
+inla.setOption(scale.model.default = TRUE) ### set scale.model=TRUE, see scale tutorial
 
 # 1) Base model selection
 
