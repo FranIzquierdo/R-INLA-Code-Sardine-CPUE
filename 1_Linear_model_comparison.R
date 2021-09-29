@@ -3,7 +3,6 @@
 # INLA linear models  #
 #*****************************
 # Francisco Izquierdo        #
-# francisco.izqtar@gmail.com #
 #*****************************
 
 ## https://becarioprecario.bitbucket.io/spde-gitbook/

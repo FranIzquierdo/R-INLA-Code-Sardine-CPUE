@@ -12,6 +12,6 @@ Script 3_:_Best_model_&_prediction: Best model, prediction and plot effects.
 
 References:
 
-Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA. Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. CRC Press/Taylor and Francis Group, 2019. (https://becarioprecario.bitbucket.io/spde-gitbook/ch-stapp.html#sec:hgst)
+Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA. Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. CRC Press/Taylor and Francis Group, 2019 (https://becarioprecario.bitbucket.io/spde-gitbook/ch-stapp.html#sec:hgst)
 
-Zuur, A. F., Ieno, E. N., & Saveliev, A. A. (2017). Spatial, Temporal and Spatial-Temporal Ecological Data Analysis with R-INLA. Highland Statistics Ltd, 1.
+Zuur, A. F., Ieno, E. N., & Saveliev, A. A. (2017). Spatial, Temporal and Spatial-Temporal Ecological Data Analysis with R-INLA. Highland Statistics Ltd, 1

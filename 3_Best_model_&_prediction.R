@@ -3,7 +3,6 @@
 # INLA best model and prediction #
 #*********************************
 # Francisco Izquierdo        #
-# francisco.izqtar@gmail.com #
 #*****************************
 
 ## https://becarioprecario.bitbucket.io/spde-gitbook/
